@@ -16,5 +16,5 @@ mcpServer:
 
 agentic:
   enabled: true
-  operatorImage: quay.io/redhat-user-workloads/crt-nshift-lightspeed-tenant/lightspeed-agentic-operator:main
+  operatorImage: quay.io/redhat-user-workloads/crt-nshift-lightspeed-tenant/lightspeed-agentic-operator:on-pr-c4c48af25ee0df85b0fe850e733664f02d9c24d9
   githubRaw: https://raw.githubusercontent.com/openshift/lightspeed-agentic-operator/main
